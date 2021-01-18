@@ -18,8 +18,9 @@ body {
 }
 
 nav ul {
-  margin-top: 32px;
-  display: inline-block;
+  padding: 12px 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 nav,
