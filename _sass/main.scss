@@ -13,26 +13,51 @@ body {
 }
 
 
+img {
+  max-width: 100%;
+}
+
 .logo {
   display: block;
+}
+
+
+header {
+  background-color: #f3f4f6;
+  padding: 48px 0;
 }
 
 nav ul {
   padding: 12px 0;
   display: flex;
   justify-content: space-between;
+  margin-top: 12px;
 }
 
 nav,
 main {
   width: 650px;
   max-width: 90%;
-  margin: 48px auto;
+  margin: 0 auto;
+}
+
+aside,
+main {
+  margin-top: 64px;
+}
+
+aside p {
+  margin-bottom: 24px;
 }
 
 nav ul {
   list-style: none;
   padding-left: 0;
+}
+
+nav a {
+  color: #949EB2;
+  text-decoration: none;
 }
 
 h1, h2, h3 {
@@ -44,4 +69,17 @@ h1, h2, h3 {
 p {
   color: #243B53;
   line-height: 24px;
+}
+
+
+@media only screen and (min-width: 850px) {    
+
+#home {
+  width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 70% 30%;
+  grid-gap: 32px;
+}
+
 }
