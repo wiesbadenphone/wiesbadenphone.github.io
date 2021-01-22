@@ -3,6 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
+    {% if page.noindex %}<meta NAME="ROBOTS" CONTENT="NOINDEX,FOLLOW"/>{% endif %}
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
@@ -10,7 +11,7 @@
 
     <header>
     <nav>
-      <span class="logo">Smartphone Reparatur Wiesbaden</span>
+      <span class="logo">{{ site.title }}</span>
       <ul>
         <a href="/">
         <li>Home</li>

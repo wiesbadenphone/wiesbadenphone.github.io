@@ -1,43 +1,5 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    
-    <title>Unser Service - Smartphone Reparatur Wiesbaden - Smartphone Reparatur Wiesbaden</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-
-    <header>
-    <nav>
-      <span class="logo">Smartphone Reparatur Wiesbaden</span>
-      <ul>
-        <a href="/">
-        <li>Home</li>
-        </a>
-        <a href="/">
-          <li>About</li>
-        </a>
-        <a href="/">
-          <li>Kontakt</li>
-        </a>
-        <a href="/">
-          <li>Blog</li>
-        </a>
-        <a href="/service">
-          <li>Service</li>
-        </a>
-      </ul>
-    </nav>
-
-  </header>
-
-<section id="home">
-
-
-    <main>
-      <h1 id="unser-service-für-wiesbaden">Unser Service für Wiesbaden</h1>
+I"�
+<h1 id="unser-service-für-wiesbaden">Unser Service für Wiesbaden</h1>
 <p>Was bieten wir an?</p>
 
 <ul>
@@ -48,8 +10,6 @@
   <li>Displayschäden</li>
   <li>Wasserschäden</li>
 </ul>
-
-<p><img src="/smartphone-reparatur-wiesbaden.png" alt="iphone während der reparatur wiesbaden" /></p>
 
 <p>Wir möchten Wiesbaden mit bestem Service rund um die Smartphone Reparatur versorgen.</p>
 
@@ -78,23 +38,9 @@ Smartphone-Reparatur Wiesbaden</p>
 <p>Was für Sie wichtig ist, ist auch für uns wichtig. Wir sind stolz darauf, Ihnen einen hervorragenden Kundenservice zu bieten und Ihnen bei allen Fragen und Anliegen zu helfen, die Sie haben.</p>
 
 <h2 id="freundliches-personal">Freundliches Personal</h2>
-<p>Wir machen das schon seit den Tagen des ersten iPhones. Jeder einzelne Mitarbeiter ist CMR-zertifiziert und verfügt über einen Titel in Sachen Zuverlässigkeit. Sie können einen professionellen Service von unserem sorgfältig geprüften Team von Technikfreaks und Spezialisten für mobile Reparaturen erwarten.</p>
+<p>Wir machen das schon seit den Tagen der Flip-Phones.  Jeder einzelne Mitarbeiter ist CMR-zertifiziert und verfügt über einen Doktortitel in Sachen Zuverlässigkeit. Sie können einen professionellen Service von unserem sorgfältig geprüften Team von Technikfreaks und Spezialisten für mobile Reparaturen erwarten.</p>
 
 <h2 id="garantie">Garantie</h2>
 <p>Auf unsere Reparaturen gewähren wir eine 1-jährige Garantie. Wenn ein Fehler oder Herstellerdefekt an einem von uns reparierten Gerät auftritt, beheben wir ihn innerhalb eines Jahres nach der ersten Reparatur kostenlos.</p>
 
-
-    </main>
-    <aside>
-      <h2>Wir für Wiesbaden</h2>
-
-<p>Unser Ziel ist es Wiesbaden mit Smartphone Reparatur zu versorgen.
-    Egal ob iPhone, iPad oder Android. Wir kümmern uns um die Landeshauptstadt.
-</p>
-
-<img src="/assets/wiesbaden.png" alt="wiesbaden von oben">
-    </aside>
-
-  </section>
-  </body>
-</html>
+:ET
