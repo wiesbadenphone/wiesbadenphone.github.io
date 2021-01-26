@@ -8,8 +8,14 @@
 
 
 <url>
-  <loc>https://wiesbadenphone.github.io/</loc>
-  <lastmod>2021-01-18T13:02:12+00:00</lastmod>
+  <loc>https://wiesbadenphone.tk/</loc>
+  <lastmod>2021-01-26T12:37:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wiesbadenphone.tk/service/</loc>
+  <lastmod>2021-01-26T12:37:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
